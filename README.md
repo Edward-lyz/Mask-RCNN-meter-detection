@@ -12,6 +12,21 @@
 
 ## Whats' new
 
-- Use Data augmetation
+- Use Data augmentation
 
 - Use auxiliary network
+
+- Use PANet to improve the accuracy
+
+## some  Tries:
+- Use  SeNet ------ wrong 
+
+- use resnetV2 -------wrong
+
+- use res2net ------wrong
+
+## Results shown:
+
+<img src="./prediction/3-10/20220310-210437.png" alt="20220310-210437" style="zoom:25%;" />
+
+<img src="./prediction/3-18/20220318-122741.png" alt="20220318-122741" style="zoom:25%;" />
